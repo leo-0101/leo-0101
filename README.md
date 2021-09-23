@@ -2,7 +2,6 @@
 
 - 👨‍💻 Aluno da Mesttra/MilDevs
 - 🌱 Estudando Python
-- 😄 Pronomes: ele/dele
 
   ##
 
