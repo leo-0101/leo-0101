@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Leo 👋
 
-- 👨‍💻 (Ex) Aluno da Mesttra/MilDevs
 - 🌱 Estudando Python
 
   ##
