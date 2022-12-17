@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leo 👋
 
-- 🌱 Estudando Python
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 
   ##
 
