@@ -19,5 +19,5 @@
 
 <div align="center">
   <br/>
-  <p aling="center"> "A única maneira de não cometer erros é fazendo nada. Este, no entanto, é certamente um dos maiores erros que se poderia cometer em toda uma existência." - Confúcio</p>
+  <p aling="center"> "Que eu diminua e que Ele cresça, que eu seja o corpo e Ele a cabeça." - João Batista</p>
 </div>
